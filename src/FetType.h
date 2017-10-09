@@ -14,7 +14,7 @@ enum FetType {
 	STREAM_TYPE,// Decays to chain
 
 // References are a reference to a particular fraction, often one in a chain
-	// as to iterate through said chain
+// as to iterate through said chain
 	REFERENCE_TYPE,// Decays to fraction
 };
 
